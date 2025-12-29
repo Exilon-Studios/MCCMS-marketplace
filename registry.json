@@ -1,0 +1,12 @@
+{
+  "update": {
+    "version": "1.0.0",
+    "file": "mccms-1.0.0.zip",
+    "url": "https://github.com/Exilon-Studios/MCCMS/releases/download/v1.0.0/mccms-1.0.0.zip",
+    "hash": ""
+  },
+  "plugins": [],
+  "themes": [],
+  "games": [],
+  "alerts": []
+}
